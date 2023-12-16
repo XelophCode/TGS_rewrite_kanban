@@ -6,17 +6,17 @@ kanban-plugin: basic
 
 ## to-do
 
-- [ ] set up inventory system framework
 
 
 ## currently working on
 
-- [ ] build development tools
-- [ ] initial project set up
+- [ ] set up inventory system framework
+- [ ] build item data tool
 
 
 ## completed
 
+- [ ] initial project set up
 
 
 ## core features to-do
