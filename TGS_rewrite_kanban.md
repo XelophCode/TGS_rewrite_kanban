@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## to-do
 
+- [ ] set up inventory system framework
 
 
 ## currently working on
