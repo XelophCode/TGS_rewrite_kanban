@@ -11,12 +11,12 @@ kanban-plugin: basic
 ## currently working on
 
 - [ ] set up inventory system framework
-- [ ] build item data tool
 
 
 ## completed
 
 - [ ] initial project set up
+- [ ] build item data tool
 
 
 ## core features to-do
